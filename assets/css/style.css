@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+.inf{
+    padding-top: 10px;
+}
+
+.cost{
+    color: rgb(87, 160, 234);
+    font-weight:600;
+    font-size: 27px;
+}
+
+.ncost{
+    color: red;
+    text-decoration: line-through;
+}
+
+.tag{
+    font-weight: bold;
+}
+
+.shr{
+    font-weight: bold;
+}
+
+.icon,.filtr{
+    margin-left: 10px;
+}
+
+i{
+    background-color: rgb(181, 203, 223);
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    padding-left: 5px;
+    padding-top: 4px;
+    margin-right: 10px;
+}
+
+.tgs .flt{
+    background-color: rgb(181, 203, 223);
+    margin-right: 10px;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 3px;
+    padding-left: 5px;
+}
+
+.tgs .sflt{
+    background-color: rgb(181, 203, 223);
+    margin-right: 10px;
+    color: white;
+    width: 55px;
+    height: 30px;
+    border-radius: 3px;
+    padding-left: 13px;
+}
+
+.cart{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(40, 141, 214);
+    width: 150px;
+    height: 40px;
+    color: white;
+    margin-top: 20px;
+}
+
+.wish{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(40, 141, 214);
+    width: 150px;
+    height: 40px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.photo1{
+    width: 200px;
+    height: 250px;
+    margin-left: 90px;
+    border-radius: 15px;
+}
+
+.photo2{
+    width: 200px;
+    height: 250px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.photo3{
+    width: 200px;
+    height: 250px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.here{
+    height: 400px;
+    width: 350px;
+}
+
+.slc{
+    height: 400px;
+    width: 350px;
+    margin-left: 240px;
+}
+
+.pht{
+    margin-top: 30px;
+    z-index: 999;
+}
